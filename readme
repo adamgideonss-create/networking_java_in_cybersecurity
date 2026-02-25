@@ -1,0 +1,6 @@
+
+
+TCP Client-Server Application
+
+A simple client-server application using TCP to demonstrate data communication over a network. The server listens for incoming connections, and the client connects to the server to send and receive messages.
+
